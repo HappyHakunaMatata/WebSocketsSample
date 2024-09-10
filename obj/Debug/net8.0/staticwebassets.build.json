@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "WagsAZm8ZBeyF7gx+/aBB7EBykmp+T6r1pA6LsbqpEg=",
+  "Source": "WebSocketsSample",
+  "BasePath": "_content/WebSocketsSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebSocketsSample/wwwroot",
+      "Source": "WebSocketsSample",
+      "ContentRoot": "/Users/user/Downloads/AspNetCore.Docs-main/aspnetcore/fundamentals/websockets/samples/8.x/WebSocketsSample/wwwroot/",
+      "BasePath": "_content/WebSocketsSample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/user/Downloads/AspNetCore.Docs-main/aspnetcore/fundamentals/websockets/samples/8.x/WebSocketsSample/wwwroot/index.html",
+      "SourceId": "WebSocketsSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/user/Downloads/AspNetCore.Docs-main/aspnetcore/fundamentals/websockets/samples/8.x/WebSocketsSample/wwwroot/",
+      "BasePath": "_content/WebSocketsSample",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
